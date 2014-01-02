@@ -3,3 +3,5 @@ The Chumash are a Native American people who historically inhabited the central 
 > an aesthetic, symbolic representation of significant concepts and entities that is painted on or carved into a rock surface.
 
 Rock art may have been created by shamans during vision quests, most commonly in the form of pictographs (paintings on rock), but sometimes petroglyphs (engravings on rock) as well. No one is absolutely certain about the meaning of the Chumash Rock art, but scholars generally agree that it is connected with religion and astronomy. Chumash rock art is considered to be some of the most elaborate rock art tradition in the region.
+
+![chumash rock art](http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2009_07_09_camino_cielo_paradise_137.jpg/800px-2009_07_09_camino_cielo_paradise_137.jpg)
