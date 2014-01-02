@@ -1,0 +1,5 @@
+The Chumash are a Native American people who historically inhabited the central and southern coastal regions of California during the late period of history (ca. 1300 to 1804 CE). They were a maritime, hunter-gatherer society whose livelihood was based on the sea. They developed excellent skills for catching fish, shellfish, and other marine mammals. Beyond fishing, however, they were also skilled in **creating rock art**. Rock art has been defined as:
+
+> an aesthetic, symbolic representation of significant concepts and entities that is painted on or carved into a rock surface.
+
+Rock art may have been created by shamans during vision quests, most commonly in the form of pictographs (paintings on rock), but sometimes petroglyphs (engravings on rock) as well. No one is absolutely certain about the meaning of the Chumash Rock art, but scholars generally agree that it is connected with religion and astronomy. Chumash rock art is considered to be some of the most elaborate rock art tradition in the region.

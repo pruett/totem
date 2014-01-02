@@ -1,6 +1,8 @@
-# Robe
-### Data-driven visuals
+# Chumash
+### *Rock* solid, data-driven visuals
 
-`Robe` is a tool to create unique visuals based on various points of data. *Robes* can accept a number of varying points of data to manipulate color, size, shape, angle, etc. of a vector path. Combined, these paths come to form something unique and wholly reflective of its sources of data.
+## What is Chumash?
 
-# A `Robe` should tell a singular, compelling story
+A tool to create visuals rooted data. Data is used to manipulate color, size, shape, angle, etc. of a vector path or polygon. Combined, these shapes form something unique and wholly reflective of its sources of data.
+
+### Each `chumash` should tell a singular, compelling story
