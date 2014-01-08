@@ -1,8 +1,5 @@
-# Chumash
-### *Rock* solid, data-driven visuals
+# Totem
 
-## What is Chumash?
+A tool to create visuals rooted in data. Data is used to manipulate color, size, shape, angle, etc. of a vector path or polygon. Combined, these shapes form a unique symbol, wholly reflective of its sources of data.
 
-A tool to create visuals rooted data. Data is used to manipulate color, size, shape, angle, etc. of a vector path or polygon. Combined, these shapes form something unique and wholly reflective of its sources of data.
-
-### Each `chumash` should tell a singular, compelling story
+Each `totem` should tell a singular, compelling story
